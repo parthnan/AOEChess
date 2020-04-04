@@ -3,5 +3,5 @@
 
 Javascript-jQuery chess inspired by the classic RTS game Age of Empires II, currently under development!
 
-![alt text](https://raw.githubusercontent.com/parthnan/AOEChess/master/winall.png)
+![alt text](https://raw.githubusercontent.com/parthnan/AOEChess/master/chessboard.png)
 

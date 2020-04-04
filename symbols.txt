@@ -1,0 +1,40 @@
+Civs: Ind,Per,Sar,Chi,Jap,Kor,Teut,Celt,Fra,Ita,Azt
+
+Common : 
+Wall 🛡️
+
+Shared:
+War Elephant 🐘  		Ind,Per
+Camel 🐪  				Per,Sar
+Two Handed Swords ⚔️		Ind,Per,Kor,Chi,Sar
+Champion 🗡️				Jap,Celt,Teut,Fra,Ita,Azt
+Archer 🏹				Teut,Fra,Azt,Celt
+Arbalest ➾				Ind,Kor,Chi,Sar,Jap,Ita
+Scorpion 	
+Chancellor ☀️			Fra,Teut,Ita
+Paladin 🎠				Fra,Teut,Celt,Per
+Scout 🏇					Ind,Per,Chi,Fra
+Castle 🏰				
+Spear Ψ					Teut
+Halberd Ж				Azt,Jap,Fra
+Monk 🕉️,✝️,☪️,✡️,🛐,🔯
+Mangonel ♅
+Petard 💣
+
+Unique:
+Imperial Camel 🐫		
+Genoese Cbow ✠ 
+Teutonic Knight ✞ ✟
+Samurai 士				Ninja 忍
+Chu Ko Nu ፹
+Woad Raider ☘
+Mameluke ك
+Eagle Warrior 🦅			Jaguar Warrior 🐆
+Turtle ship ㉮🐢			War Wagon ☸️㉻
+✴️
+Berserk ⚒️
+Throwing Axeman 🔨
+
+MISC:
+Castle East 🏯			Chi,Jap,Kor
+Vill East ☗☖			Chi,Jap,Kor
